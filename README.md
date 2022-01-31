@@ -13,7 +13,7 @@ Hemos utilizado:
 - promesas Api
 
 ## Para levantar el proyecto tienes que tener instalado NodeJs
--npm install
+- npm install
 
 ## SASS
 - npm install node-sass
